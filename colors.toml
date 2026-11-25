@@ -1,0 +1,55 @@
+# Altair — alien megastructures, orbital rings, and mid-century expedition
+# consoles (after Altair IV from Forbidden Planet). Cinematic charcoal/slate
+# shadows, warm metallic beige, icy silver-blue, dusty rose and pink light.
+
+# --- Semantic palette ---
+background = "#171923"
+foreground = "#d9d0c3"
+accent = "#e87993"
+cursor = "#f28da3"
+
+red = "#d75f70"
+green = "#83b78c"
+yellow = "#d8bd8d"
+blue = "#526b89"
+magenta = "#b87587"
+cyan = "#8eafc0"
+orange = "#ce9278"
+purple = "#9a8298"
+
+bright_red = "#f18a98"
+bright_green = "#a6d3a8"
+bright_yellow = "#f0d9ad"
+bright_blue = "#7894b2"
+bright_magenta = "#dc9aaa"
+bright_cyan = "#b9d3df"
+bright_foreground = "#f3e9d9"
+
+dark_background = "#10121b"
+darker_background = "#0b0d14"
+lighter_background = "#292c38"
+dark_foreground = "#666872"
+light_foreground = "#d9d0c3"
+muted = "#85838b"
+
+selection = "#634452"
+selection_background = "#634452"
+selection_foreground = "#f3e9d9"
+
+# --- Legacy ANSI (color0–15) ---
+color0 = "#171923"
+color1 = "#d75f70"
+color2 = "#83b78c"
+color3 = "#d8bd8d"
+color4 = "#526b89"
+color5 = "#b87587"
+color6 = "#8eafc0"
+color7 = "#d9d0c3"
+color8 = "#666872"
+color9 = "#f18a98"
+color10 = "#a6d3a8"
+color11 = "#f0d9ad"
+color12 = "#7894b2"
+color13 = "#dc9aaa"
+color14 = "#b9d3df"
+color15 = "#f3e9d9"

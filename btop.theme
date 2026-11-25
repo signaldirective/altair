@@ -1,0 +1,79 @@
+# Altair — dusty rose / icy silver-blue / champagne beige on charcoal slate.
+# Transparent main background so the alien landscape wallpapers show through.
+
+theme[main_bg]=""
+
+# Main text color
+theme[main_fg]="#d9d0c3"
+
+# Title color for boxes
+theme[title]="#e87993"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#d8bd8d"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#634452"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#f3e9d9"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#666872"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#d9d0c3"
+
+# Background color of the percentage meters
+theme[meter_bg]="#292c38"
+
+# Misc colors for processes box
+theme[proc_misc]="#ce9278"
+
+# Box outline and divider line color — steel blue and dusty rose frames
+theme[cpu_box]="#b87587"
+theme[mem_box]="#526b89"
+theme[net_box]="#8eafc0"
+theme[proc_box]="#e87993"
+theme[div_line]="#666872"
+
+# Temperature graph color (phosphor green -> champagne -> alarm red)
+theme[temp_start]="#83b78c"
+theme[temp_mid]="#d8bd8d"
+theme[temp_end]="#d75f70"
+
+# CPU graph colors (silver-blue -> dusty rose -> bright rose)
+theme[cpu_start]="#8eafc0"
+theme[cpu_mid]="#e87993"
+theme[cpu_end]="#f18a98"
+
+# Memory meters (steel blue -> champagne -> dusty rose)
+theme[free_start]="#526b89"
+theme[free_mid]="#8eafc0"
+theme[free_end]="#b9d3df"
+
+theme[cached_start]="#526b89"
+theme[cached_mid]="#8eafc0"
+theme[cached_end]="#b87587"
+
+theme[available_start]="#d8bd8d"
+theme[available_mid]="#ce9278"
+theme[available_end]="#d75f70"
+
+theme[used_start]="#83b78c"
+theme[used_mid]="#8eafc0"
+theme[used_end]="#e87993"
+
+# Network graphs (steel blue -> icy silver-blue)
+theme[download_start]="#526b89"
+theme[download_mid]="#8eafc0"
+theme[download_end]="#b9d3df"
+
+theme[upload_start]="#b87587"
+theme[upload_mid]="#e87993"
+theme[upload_end]="#f18a98"
+
+# Process box gradient
+theme[process_start]="#8eafc0"
+theme[process_mid]="#b87587"
+theme[process_end]="#e87993"
